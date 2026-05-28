@@ -1,0 +1,32 @@
+aid: mailsac
+name: Mailsac
+description: "Disposable Email"
+url: https://mailsac.com/docs/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: Mailsac
+    description: "Disposable Email"
+    humanURL: https://mailsac.com/docs/api
+    baseURL: https://mailsac.com/docs/api
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: https://mailsac.com/docs/api
+common:
+  - type: Website
+    url: https://mailsac.com/docs/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
