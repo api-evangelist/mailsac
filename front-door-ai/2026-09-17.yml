@@ -1,0 +1,27 @@
+# Front Door AI Index — mailsac — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: mailsac
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: mailsac.com
+  final_host: mailsac.com
+  ownership: own
+  owner: mailsac
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 2
+  host_score: 2
+  density: 1.66
+  words: 1204
+  tiers:
+    agentic: 1
+    core: 1
+    model: 0
+  ambiguous: 2
+  top_terms:
+    agent: 2
+    AI agent: 1
+    AI: 1
