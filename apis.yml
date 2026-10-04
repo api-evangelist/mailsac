@@ -39,7 +39,6 @@ apis:
   - name: Mailsac
     description: "Disposable Email"
     humanURL: https://mailsac.com/docs/api
-    baseURL: https://mailsac.com/docs/api
     tags:
       - Test Data
     properties:
