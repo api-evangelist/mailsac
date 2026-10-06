@@ -27,7 +27,7 @@ description: "Disposable Email"
 url: https://mailsac.com/docs/api
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Test Data"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://mailsac.com/docs/api
 common:
+  - url: https://blog.mailsac.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/mailsac-domain-security.yml
   - type: Website
